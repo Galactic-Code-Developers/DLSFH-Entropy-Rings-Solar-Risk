@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DLSFH Entropy & Coherence Diagnostics for Solar Flare and CME Risk"
+authors:
+  - family-names: "Valamontes"
+    given-names: "Antonios"
+    affiliation: "Kapodistrian Academy of Science"
+    email: "avalamontes@Kapodistrian.edu.gr"
+repository-code: "https://github.com/geopayme/AstroPhysics"
+url: "https://github.com/geopayme/AstroPhysics"
+license: "MIT"
+keywords:
+  - heliophysics
+  - space weather
+  - magnetograms
+  - entropy
+  - coherence
+  - CME
+  - solar flares

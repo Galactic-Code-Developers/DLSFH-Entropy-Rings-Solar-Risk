@@ -1,0 +1,19 @@
+{
+  "notebooks": [
+    {
+      "name": "DLSFH_Entropy_Diagnostic_NOAA.ipynb",
+      "source_url": "https://github.com/geopayme/AstroPhysics/blob/main/DLSFH_Entropy_Diagnostic_NOAA.ipynb",
+      "raw_url": "https://raw.githubusercontent.com/geopayme/AstroPhysics/main/DLSFH_Entropy_Diagnostic_NOAA.ipynb"
+    },
+    {
+      "name": "DLSFH_PhysicsEntropy_AdvancedFinal_FINAL_5.ipynb",
+      "source_url": "https://github.com/geopayme/AstroPhysics/blob/main/DLSFH_PhysicsEntropy_AdvancedFinal_FINAL_5.ipynb",
+      "raw_url": "https://raw.githubusercontent.com/geopayme/AstroPhysics/main/DLSFH_PhysicsEntropy_AdvancedFinal_FINAL_5.ipynb"
+    },
+    {
+      "name": "DLSFH_PhysicsEntropy_Enhanced.ipynb",
+      "source_url": "https://github.com/geopayme/AstroPhysics/blob/main/DLSFH_PhysicsEntropy_Enhanced.ipynb",
+      "raw_url": "https://raw.githubusercontent.com/geopayme/AstroPhysics/main/DLSFH_PhysicsEntropy_Enhanced.ipynb"
+    }
+  ]
+}

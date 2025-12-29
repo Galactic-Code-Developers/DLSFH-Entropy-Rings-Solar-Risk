@@ -1,0 +1,31 @@
+{
+  "title": "DLSFH Entropy & Coherence Diagnostics for Solar Flare and CME Risk",
+  "description": "Code and notebooks supporting 'Entropy Rings and Fragmented Suns: A New Approach to Flare and CME Risk Detection'. Implements 20-node DLSFH partitioning, localized Shannon entropy, coherence amplitude psi*_s=exp(-S), fragmentation, entropy-ring detection and composite risk scoring.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Valamontes, Antonios",
+      "affiliation": "Kapodistrian Academy of Science",
+      "orcid": ""
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "heliophysics",
+    "space weather",
+    "entropy",
+    "coherence",
+    "magnetograms",
+    "CME",
+    "solar flares",
+    "DLSFH"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "Entropy Rings and Fragmented Suns: A New Approach to Flare and CME Risk Detection",
+      "scheme": "url"
+    }
+  ]
+}
