@@ -1,9 +1,11 @@
 numpy
 scipy
-matplotlib
 pandas
+matplotlib
+pillow
 opencv-python
 scikit-image
-astropy
-sunpy
+networkx
 jupyter
+ipykernel
+tqdm
