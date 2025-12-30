@@ -13,7 +13,7 @@ This release package accompanies the paper:
 **_Entropy Rings and Fragmented Suns: A New Approach to Flare and CME Risk Detection_**  
 Antonios Valamontes, Kapodistrian Academy of Science
 
-It contains the computational materials required for **transparent, auditable reproduction** of the paper’s diagnostic framework: a 20-node DLSFH partition of solar magnetograms, localized Shannon entropy estimation, coherence amplitude $\psi^\star_s = \exp(-S)$, SGCV fragmentation detection, entropy-ring identification via the DLSFH adjacency graph, and the composite flare/CME risk score \(R_{\mathrm{flare}}\).
+It contains the computational materials required for **transparent, auditable reproduction** of the paper’s diagnostic framework: a 20-node DLSFH partition of solar magnetograms, localized Shannon entropy estimation, coherence amplitude $\psi^\star_s = \exp(-S)$, SGCV fragmentation detection, entropy-ring identification via the DLSFH adjacency graph, and the composite flare/CME risk score $\(R_{\mathrm{flare}}\)$.
 
 The repository is intended to support **method verification and qualitative robustness assessment**, not operational deployment.
 
