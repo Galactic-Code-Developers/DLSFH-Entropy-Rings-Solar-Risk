@@ -1,0 +1,18 @@
+name: dlsfh-entropy-rings
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - pillow
+  - scikit-image
+  - networkx
+  - jupyterlab
+  - ipykernel
+  - tqdm
+  - pip
+  - pip:
+      - opencv-python
