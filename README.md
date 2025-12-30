@@ -23,8 +23,6 @@ The repository is intended to support **method verification and qualitative robu
 
 ### Notebooks (source of truth)
 
-### Notebooks (source of truth)
-
 In this repository, “source of truth” denotes the authoritative computational implementations from which the figures, diagnostics, and numerical results reported in the paper are generated. All analyses shown in the manuscript can be reproduced directly by executing these notebooks; derived figures or summaries should be treated as secondary to the notebook outputs.
 
 The canonical analysis notebooks are hosted in the associated GitHub repository:
