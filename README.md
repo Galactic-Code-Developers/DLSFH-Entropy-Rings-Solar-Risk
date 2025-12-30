@@ -21,31 +21,6 @@ Because this ZIP is intended to be portable, it includes a **manifest** and a **
 - `manifest/notebooks.json`
 - `tools/fetch_notebooks.py`
 
-## Quick start
-
-1. Create a fresh environment (example):
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate
-   pip install -r requirements.txt
-   ```
-
-2. Fetch notebooks from GitHub:
-   ```bash
-   python tools/fetch_notebooks.py
-   ```
-
-3. Open and run:
-   - `notebooks/DLSFH_Entropy_Diagnostic_NOAA.ipynb`
-
-## Zenodo archiving workflow (recommended)
-
-1. Create a GitHub Release (e.g., `v1.0.0`).
-2. Connect the repository to Zenodo (GitHub → Zenodo integration).
-3. Trigger an archive by publishing the release.
-4. Add the resulting DOI to:
-   - `zenodo.json` (this package)
-   - the paper’s Reproducibility section
 
 ## Citation
 
